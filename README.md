@@ -2,6 +2,7 @@
 
 A basic user login system using Core PHP, HTML, and CSS — with session-based authentication.
 
+<img width="1919" height="912" alt="Screenshot" src="https://github.com/user-attachments/assets/4cb8d2e0-c3ca-4486-a76e-8caab9015886" />
 
 ## Features
 
@@ -21,5 +22,3 @@ A basic user login system using Core PHP, HTML, and CSS — with session-based a
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/simple-php-login.git
-   <img width="1919" height="912" alt="Screenshot" src="https://github.com/user-attachments/assets/cb11d5bf-84b5-49aa-9688-89939c424474" />
-   <img width="1919" height="915" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/ca7e27e3-1f4a-468b-b50a-b4882b5f82e4" />
