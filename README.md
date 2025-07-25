@@ -15,7 +15,7 @@ A basic user login system using Core PHP, HTML, and CSS — with session-based a
 
 - PHP 7.0 or higher
 - Web server (e.g. XAMPP, WAMP, Laragon)
-- MySQL (if using database for storing users)
+- MySQL 
 
 ## Installation
 
