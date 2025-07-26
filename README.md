@@ -15,10 +15,28 @@ A basic user login system using Core PHP, HTML, and CSS — with session-based a
 
 - PHP 7.0 or higher
 - Web server (e.g. XAMPP, WAMP, Laragon)
-- MySQL 
+- MySQL
 
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-username/simple-php-login.git
+
+   ```
+
+2. Create the database and import the SQL:
+
+- Open phpMyAdmin or MySQL CLI
+
+- Create a new database (e.g., login_system_db)
+
+- Import the login_system_db.sql file included in the project
+
+3. Run the project:
+
+- Start your Apache and MySQL server
+
+- Access the project in your browser at:
+  http://localhost/simple-php-login
